@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Memento Exercises", "Mement
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State", "State\State.csproj", "{8C0A3222-5A32-4331-8A59-1D834DC1285D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator", "Iterator\Iterator.csproj", "{E9562EE1-971E-4334-B30F-81B5E4EC30E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8C0A3222-5A32-4331-8A59-1D834DC1285D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C0A3222-5A32-4331-8A59-1D834DC1285D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C0A3222-5A32-4331-8A59-1D834DC1285D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9562EE1-971E-4334-B30F-81B5E4EC30E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9562EE1-971E-4334-B30F-81B5E4EC30E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9562EE1-971E-4334-B30F-81B5E4EC30E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9562EE1-971E-4334-B30F-81B5E4EC30E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
