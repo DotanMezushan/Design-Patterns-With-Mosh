@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Template Method Exercises",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Template Method Exercises windows", "Template Method Exercises windows\Template Method Exercises windows.csproj", "{DD7B8D1C-3267-458A-B7D7-C1C5D2293672}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command Pattern", "Command Pattern\Command Pattern.csproj", "{70D2D403-BE15-427A-8B76-A6B857101014}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command Pattern ex1", "Command Pattern ex1\Command Pattern ex1.csproj", "{78436FD8-5B40-4840-B9B8-61E42364DF6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{DD7B8D1C-3267-458A-B7D7-C1C5D2293672}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD7B8D1C-3267-458A-B7D7-C1C5D2293672}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD7B8D1C-3267-458A-B7D7-C1C5D2293672}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70D2D403-BE15-427A-8B76-A6B857101014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D2D403-BE15-427A-8B76-A6B857101014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D2D403-BE15-427A-8B76-A6B857101014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D2D403-BE15-427A-8B76-A6B857101014}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78436FD8-5B40-4840-B9B8-61E42364DF6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78436FD8-5B40-4840-B9B8-61E42364DF6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78436FD8-5B40-4840-B9B8-61E42364DF6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78436FD8-5B40-4840-B9B8-61E42364DF6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
